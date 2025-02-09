@@ -1,0 +1,13 @@
+   blank_issues_enabled: false
+   contact_links:
+     - name: "Сообщить об ошибке"
+       url: "https://example.com/contact"
+       about: "Если вы хотите сообщить об ошибке, пожалуйста, используйте эту ссылку."
+   templates:
+     - title: "Ошибка"
+       description: "Сообщите о проблеме или ошибке."
+       filename: "bug_report.md"
+     - title: "Запрос на функцию"
+       description: "Предложите новую функцию или улучшение."
+       filename: "feature_request.md"
+   
